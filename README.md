@@ -134,7 +134,8 @@ Superstore-Dashboard/
 - Data-Driven Decision-Making
 
 ## 📷 Dashboard Preview
-
+data modeling 
+<img width="1047" height="410" alt="Data modeling png" src="https://github.com/user-attachments/assets/4df55d3f-230f-4657-a063-71469c6452ae" />
 Add a screenshot of your actual Power BI dashboard to this repository and update the filename below.
 
 ```markdown
